@@ -1,4 +1,4 @@
-### Hi there 👋
+👋 Hi there, I'm Iasmina
 
 <!--
 **pearvblueberry/pearvblueberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+- 👩‍💻 Junior Product Manager @ YardLink
+- 🌱 I'm currently learning Javascript & APIs
+- 💻 Tech skills: HTML, CSS, SQL, Heroku, Github, JIRA
+- 🎨 Design skills: UX/UI, Figma, Adobe XD, Adobe Illustrator, Wireframing, User Stories, Design Thinking
+- 📚 Educational background: Bachelor's in Management & Finance @ University of Warwick
+- 🏢 I'm currently based in London, looking to relocate back to Europe (Berlin/Madrid)
