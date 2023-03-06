@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-- 👩‍💻 Junior Product Manager @ YardLink
+- 👩‍💻 Product Manager @ YardLink
 - 🌱 I'm currently learning Javascript & APIs
 - 💻 Tech skills: HTML/CSS, Heroku, JIRA
 - 🎨 Design skills: UX/UI, Figma, Adobe XD, Adobe Illustrator, Wireframing, User Stories, Design Thinking
