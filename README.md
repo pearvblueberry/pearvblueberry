@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 🌱 I'm currently learning Javascript & APIs
 - 💻 Tech skills: HTML/CSS, Heroku, JIRA
 - 🎨 Design skills: UX/UI, Figma, Adobe XD, Adobe Illustrator, Wireframing, User Stories, Design Thinking
-- 🏢 I'm based in London
-- 😄 Pronouns: she/her
+- 🏢 I'm based in London, UK
+
